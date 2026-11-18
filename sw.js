@@ -1,5 +1,5 @@
 const cachePrefix = `kamamiku-shell:${self.registration.scope}:`;
-const cacheName = `${cachePrefix}v1`;
+const cacheName = `${cachePrefix}v2`;
 const shellPaths = [
   "./", "./styles.css", "./app.js", "./catalog.js", "./manifest.webmanifest",
   "./assets/kamamiku-cover.webp", "./assets/app-icon-180.png", "./assets/app-icon-192.png",
